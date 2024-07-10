@@ -1,4 +1,4 @@
-[![](https://github.com/barbstork/barbstork/blob/main/AnimatedProfileBanner.gif)
+[![](https://github.com/barbstork/barbstork/blob/main/AnimatedReadMeBanner.gif)
 
 As a Senior Technical Writer, I'm driven by the opportunity to help users of any technical level understand complex technical issues. 
 
